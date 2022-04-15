@@ -16,7 +16,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -41,6 +41,7 @@
 </p>
 
 ## 📊 My Github Stats
+<p align="center">
 
   <br/>
     <a href="https://github.com/ikhwanbas/github-readme-stats"><img alt="ikhwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikhwanbas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -53,8 +54,8 @@
 <br/>
 
 <a href="https://github.com/ikhwanbas/github-readme-activity-graph"><img alt="Ikhwan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ikhwanbas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
 
-<br/>
 <br/>
 
 ## Connect with me:
